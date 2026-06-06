@@ -22,6 +22,6 @@ Each game uses real airplane images, Web Audio API sound effects, and confetti c
 
 ## Author
 
-Made by [@meimakes](https://x.com/meimakes)
+Made by [@madebydia](https://x.com/madebydia)
 
 Want to make your own games with your kid? [buildwithyourkid.com](https://buildwithyourkid.com)
