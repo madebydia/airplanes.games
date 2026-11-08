@@ -1,6 +1,6 @@
 # airplanes.games — Site Spec
 
-Build a static site for airplanes.games with a launcher page (index.html) and 5 games.
+Build a static site for airplanes.games with a launcher page (index.html) and 6 games.
 All games are pure HTML/CSS/JS — zero dependencies. Touch-friendly, mobile-first.
 Use the Fredoka Google Font throughout.
 
@@ -32,6 +32,7 @@ Games on the launcher:
 3. Logic Hangar (/logic-hangar.html) — Matching & Sorting — ●●○
 4. Flight Path (/flight-path.html) — Problem Solving — ●●●
 5. Cargo Count (/cargo-count.html) — Counting — ●○○
+6. Takeoff Path (/takeoff-path.html) — Fine Motor & Planning
 
 ## Game 1: Landing Path (landing-path.html)
 Already exists as landing-path.html. Leave it mostly as-is but:
@@ -101,3 +102,7 @@ Faint airplane silhouette in background. Home button top-left.
 - ALL games: Web Audio API for sound effects
 - Plane images should be sized appropriately (max ~120px height in cards, ~80px in game pieces)
 - Mobile-first responsive design
+
+## Game 6: Takeoff Path (takeoff-path.html)
+Tracing game. Kid traces a flight path on screen, then the plane flies it and takes off.
+Progressive levels with more complex paths (curves, wind). Level indicator in the HUD.

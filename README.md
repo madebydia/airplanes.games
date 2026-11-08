@@ -8,6 +8,7 @@ Playful learning for future pilots. Educational games designed for ages 3–5 th
 - **Pattern Lab** — Spot the repeating sequence and drag the right plane to complete it (Pattern Recognition)
 - **Logic Hangar** — Match each airplane to its hangar by looking carefully at the signs (Matching & Sorting)
 - **Flight Path** — Navigate a maze while dodging storm clouds to reach the runway (Problem Solving)
+- **Takeoff Path** — Trace the flight path to launch your plane into the sky (Fine Motor & Planning)
 - **Cargo Count** — Count the cargo boxes as they load up, then tap the right number (Counting)
 
 ## Tech
